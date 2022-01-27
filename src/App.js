@@ -20,7 +20,7 @@ function App() {
         >
           Learn React
         </a>
-        <button className="tw-px-6 tw-py-2 tw-text-sm tw-text-white tw-rounded tw-shadow-xl tw-bg-emerald-500">
+        <button className="tw-btn tw-btn-outline tw-btn-primary tw-btn-sm tw-shadow-xl">
           Success
         </button>
       </header>
